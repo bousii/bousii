@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bousii (Owen Giles)
-- 👀 I’m interested in game development and dumb projects
-- 🌱 I’m currently learning Go and Docker/Kubernetes
-- 📫 How to reach me ...
+- I work at Hewlett Packard Enterprise as a Software/Firmware Engineer
+- I have a passion for systems programming and games
 email: Owen.Giles@utdallas.edu or owen.a.giles@gmail.com
 <!---
 bousii/bousii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
