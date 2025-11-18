@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bousii (Owen Giles)
 - I work at Hewlett Packard Enterprise as a Software/Firmware Engineer
 - I have a passion for systems programming and games
+ 
 email: Owen.Giles@utdallas.edu or owen.a.giles@gmail.com
 <!---
 bousii/bousii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
